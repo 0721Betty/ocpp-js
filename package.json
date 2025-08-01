@@ -1,0 +1,28 @@
+{
+  "name": "ocpp-js",
+  "version": "0.0.1",
+  "main": "client.js",
+  "scripts": {
+    "start": "node client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0721Betty/ocpp-js.git"
+  },
+  "keywords": [
+    "OCPP",
+    "MQTT"
+  ],
+  "author": "0721Betty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0721Betty/ocpp-js/issues"
+  },
+  "homepage": "https://github.com/0721Betty/ocpp-js#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "uuid": "^11.1.0",
+    "ws": "^8.18.3"
+  }
+}
